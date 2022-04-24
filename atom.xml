@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-03-31T04:54:36.205Z</updated>
+  <updated>2022-04-24T14:33:43.461Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,67 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>rc4</title>
+    <link href="http://example.com/2022/04/24/rc4/"/>
+    <id>http://example.com/2022/04/24/rc4/</id>
+    <published>2022-04-24T14:33:43.000Z</published>
+    <updated>2022-04-24T14:33:43.461Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>法律文本词频统计</title>
+    <link href="http://example.com/2022/04/17/%E6%B3%95%E5%BE%8B%E6%96%87%E6%9C%AC%E8%AF%8D%E9%A2%91%E7%BB%9F%E8%AE%A1/"/>
+    <id>http://example.com/2022/04/17/%E6%B3%95%E5%BE%8B%E6%96%87%E6%9C%AC%E8%AF%8D%E9%A2%91%E7%BB%9F%E8%AE%A1/</id>
+    <published>2022-04-17T11:25:57.000Z</published>
+    <updated>2022-04-24T14:23:17.070Z</updated>
+    
+    <content type="html"><![CDATA[<p>写这个作业花了一点时间，碰了一些壁。<br>尽可能回忆起和记录一些问题。<br>首先看题目：</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;写这个作业花了一点时间，碰了一些壁。&lt;br&gt;
+尽可能回忆起和记录一些问题。&lt;br&gt;
+首先看题目：&lt;/p&gt;
+
+</summary>
+      
+    
+    
+    
+    
+    <category term="自然语言处理" scheme="http://example.com/tags/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>post4</title>
+    <link href="http://example.com/2022/03/31/post4/"/>
+    <id>http://example.com/2022/03/31/post4/</id>
+    <published>2022-03-31T05:00:16.000Z</published>
+    <updated>2022-04-17T11:38:45.032Z</updated>
+    
+    <content type="html"><![CDATA[<p>markdown 使用字体大小：<a href="https://www.cnblogs.com/zenglintao/p/12813387.html">https://www.cnblogs.com/zenglintao/p/12813387.html</a><br>空行：<a href="https://www.zhihu.com/question/20134106">https://www.zhihu.com/question/20134106</a><br>菜鸟初级教程：<a href="https://www.runoob.com/markdown/md-advance.html">https://www.runoob.com/markdown/md-advance.html</a><br>作者教程：<a href="https://haojen.github.io/Claudia-theme-blog/2017/12/20/Typography%20and%20tags/">https://haojen.github.io/Claudia-theme-blog/2017/12/20/Typography and tags/</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;markdown 使用
+字体大小：&lt;a href=&quot;https://www.cnblogs.com/zenglintao/p/12813387.html&quot;&gt;https://www.cnblogs.com/zenglintao/p/12813387.html&lt;/a&gt;&lt;br&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>hexo主题自定义（尝试）</title>
